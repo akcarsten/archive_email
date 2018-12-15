@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='archive_email',
+    name='getEmail',
     version='1.0',
     packages=['getEmail'],
-    url='',
+    url='https://github.com/akcarsten/archive_email',
     license='',
     author='Carsten Klein',
     author_email='',
